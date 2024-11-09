@@ -78,4 +78,5 @@ class Database_str:
  - Đã cài đặt Python
  - Đã cài đặt và chạy MySQL
  - Đã cài đặt Git
-Copyrighted © hquocmanh0502 2024
+
+# Copyright @ hquocmanh0502-2024. All Rights Reserved.
